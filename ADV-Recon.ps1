@@ -30,7 +30,7 @@
 
 ############################################################################################################################################################
 
-$DropBoxAccessToken = "YOUR-DROPBOX-ACCESS-TOKEN"
+$DropBoxAccessToken = "sl.BaBvy2CthIAwT-hm1g63gyKX9_6uQeTfP3vqdvJLtOCRGdiGMJmPXoyPqHPFJQfCXxDQxzKieGZr7e8AItTuO-Vy8ibMkqqwIisKIodg8KgR3Qy4EdtciHAHChIcBIAJg3oNVXw"
 
 ############################################################################################################################################################
 
